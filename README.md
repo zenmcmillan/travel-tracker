@@ -12,12 +12,15 @@ This Application allows the user to book a trip and view their future trips as w
 ## Installation Instructions
 
 1. Change into the directory you wish to clone the app into with the `cd` command.
-2. Run `git clone git@github.com:zenmcmillan/travel-tracker.git` command followed
-3. Run `npm install` and wait a few seconds until its finish installing
+2. Run `git clone git@github.com:zenmcmillan/travel-tracker.git` 
+3. Run `npm install` and wait a few seconds until its finished installing
 4. Run `npm start`
-5. Run `git clone git@github.com:turingschool-examples/travel-tracker-api.git`
-6. Run `npm install`
-7. 11. run `npm start`
+5. copy this `http://localhost:8080/` and put it into your browser
+6. Run `git clone git@github.com:turingschool-examples/travel-tracker-api.git`
+7. Run `npm install`
+8. Run `npm start`
+9. Copy this API link into your browser `http://localhost:3001/` it should `say Cannot GET /`
+10. Now refresh the ``http://localhost:8080/` and the application should be running
 
 ## Preview of App:
 
