@@ -20,7 +20,7 @@ This Application allows the user to book a trip and view their future trips as w
 7. Run `npm install`
 8. Run `npm start`
 9. Copy this API link into your browser `http://localhost:3001/` it should `say Cannot GET /`
-10. Now refresh the `http://localhost:8080/` and the application should be running
+10. Now refresh the `http://localhost:8080/` link and the application should be running
 
 ## Preview of App:
 
