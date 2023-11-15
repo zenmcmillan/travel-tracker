@@ -5,9 +5,9 @@ This Application allows the user to book a trip and view their future trips as w
 
 ## Application link:
 
-![Travel Tracker Application](https://zenmcmillan.github.io/travel-tracker/)
+[Travel Tracker Application](https://zenmcmillan.github.io/travel-tracker/)
 
-![Travel Tracker API](https://github.com/turingschool-examples/travel-tracker-api)
+[Travel Tracker API](https://github.com/turingschool-examples/travel-tracker-api)
 
 ## Preview of App:
 
