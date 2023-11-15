@@ -11,14 +11,15 @@ This Application allows the user to book a trip and view their future trips as w
 
 ## Preview of App:
 
-![Travel Tracker](travel-tracker.gif)
+![travel-tracker](https://github.com/zenmcmillan/travel-tracker/assets/121205752/ef4bf559-41b2-4916-a92b-657d9480d714)
 
 
 ## Context:
 This is the final project for the front end program at the Turing School of Software & Design. It took about 30 hours to complete this project
 
 ## Contributors:
-https://github.com/zenmcmillan - Zen McMillan 
+
+[Zen McMillan](https://github.com/zenmcmillan)
 
 ## Learning Goals:
 
@@ -32,6 +33,6 @@ https://github.com/zenmcmillan - Zen McMillan
 
 - Getting the booking form to work properly was challenging. I needed to get it to display the right message for when the user submits it with bad or incomplete data. The trip also wouldn't show in the upcoming trips section at first unless the page was refreshed. 
 
-This problem was solved by adding the network request that fetched data from the trips endpoint to the submit button event listener
+- This problem was solved by adding the network request that fetched data from the trips endpoint to the submit button event listener
 
 
