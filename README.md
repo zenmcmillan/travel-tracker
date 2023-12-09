@@ -1,9 +1,9 @@
 # Travel Tracker
 
-## Abstract:
+## Abstract
 This Application allows the user to book a trip and view their future trips as well as past trips. The user can also see a breakdown of the cost for the trip they just booked as well as the cost for all the trips they booked this year
 
-## Application link:
+## Application link
 
 [Travel Tracker Application](https://github.com/zenmcmillan/travel-tracker)
 
@@ -21,19 +21,19 @@ This Application allows the user to book a trip and view their future trips as w
 8. Run `npm start`
 9. Now refresh the `http://localhost:8080/` link and the application should be running
 
-## Preview of App:
+## Preview of App
 
 ![travel-tracker](https://github.com/zenmcmillan/travel-tracker/assets/121205752/ef4bf559-41b2-4916-a92b-657d9480d714)
 
 
-## Context:
+## Context
 This is the final project for the front end program at the Turing School of Software & Design. It took about 30 hours to complete this project
 
-## Contributors:
+## Contributors
 
 [Zen McMillan](https://github.com/zenmcmillan)
 
-## Learning Goals:
+## Learning Goals
 
 - Use object and array prototype methods to perform data manipulation
 - Create a clear and accessible user interface
@@ -41,7 +41,7 @@ This is the final project for the front end program at the Turing School of Soft
 - Implement a robust testing suite using TDD
 - Write DRY, reusable code that follows SRP (Single Responsibility Principle)
 
-## Wins + Challenges:
+## Wins + Challenges
 
 - Getting the booking form to work properly was challenging. I needed to get it to display the right message for when the user submits it with bad or incomplete data. The trip also wouldn't show in the upcoming trips section at first unless the page was refreshed. 
 
