@@ -41,7 +41,7 @@ This is the final project for the front end program at the Turing School of Soft
 - Implement a robust testing suite using TDD
 - Write DRY, reusable code that follows SRP (Single Responsibility Principle)
 
-## Wins + Challenges:
+## Wins & Challenges:
 
 - Getting the booking form to work properly was challenging. I needed to get it to display the right message for when the user submits it with bad or incomplete data. The trip also wouldn't show in the upcoming trips section at first unless the page was refreshed. 
 
